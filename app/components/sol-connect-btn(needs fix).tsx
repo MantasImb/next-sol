@@ -9,3 +9,5 @@ export default function SolConnectBtn() {
 
   return <button onClick={connect}>Connect wallet</button>;
 }
+
+// DOESNT WORK
